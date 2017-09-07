@@ -1,5 +1,19 @@
 #header{
-  background:red;
+  background:#fff;
+  & .header_side_1{
+    position:absolute;
+    left:0;
+  }
+  & #desktop_logo{
+    padding:30px 20px;
+    position:relative;
+    width:230px;
+    margin:auto;
+  }
+  & .header_side_2{
+    position:absolute;
+    right:0;
+  }
 }
 
 #header_first_row{

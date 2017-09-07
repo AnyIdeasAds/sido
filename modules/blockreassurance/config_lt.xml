@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockreassurance</name>
+    <displayName><![CDATA[Kliento patikinimas]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Prideda informacinį bloką kurio tikslas - pateikti klientui naudingos informacijos, kad &scaron;ie įgautų daugiau pasitikėjimo Jūsų el. parduotuve.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
